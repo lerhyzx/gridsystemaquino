@@ -1,0 +1,113 @@
+[class*="col"]{
+    padding: 1rem;
+    background-color: rgba(150, 231, 113, 0);
+    border: 2px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="col-sm-3"]{
+    padding: 1rem;
+    background-color: rgb(255, 162, 213);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+    padding: 8px;
+}
+[class*="r col-sm"]{
+    padding: 1rem;
+    background-color: rgb(255, 162, 190);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="t col-sm"]{
+    padding: 1rem;
+    background-color: rgb(255, 162, 235);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="y col-sm"]{
+    padding: 1rem;
+    background-color: rgb(239, 162, 255);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="u col-sm-3"]{
+    padding: 1rem;
+    background-color: rgb(205, 162, 255);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="i col-sm-6"]{
+    padding: 1rem;
+    background-color: rgb(162, 163, 255);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="o col-sm-6"]{
+    padding: 1rem;
+    background-color: rgb(162, 213, 255);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="p col-sm-12"]{
+    padding: 1rem;
+    background-color: rgb(162, 233, 255);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="a col-sm-12"]{
+    padding: 1rem;
+    background-color: rgb(162, 255, 174);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="s col-3 col-sm"]{
+    padding: 1rem;
+    background-color: rgb(215, 255, 162);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="d col-3 col-sm"]{
+    padding: 1rem;
+    background-color: rgb(255, 241, 162);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="e col-3 col-sm"]{
+    padding: 1rem;
+    background-color: rgb(255, 218, 162);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+[class*="f col-3 col-sm"]{
+    padding: 1rem;
+    background-color: rgb(255, 191, 162);
+    border: 3px solid #ffffff;
+    color: black;
+    text-align: center;
+
+}
+
